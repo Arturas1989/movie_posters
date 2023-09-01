@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Project can be found at: [Movie posters](https://arturas1989.github.io/movie_posters)
+
+Project includes:
+
+- Responsive design.
+- Fetching data from an API.
+- Displaying filtered data.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
